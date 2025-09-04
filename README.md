@@ -2,6 +2,8 @@
 
 This is a simple but fully functional code-editing AI agent built in Go, based on the tutorial ["How to Build an Agent"](https://ampcode.com/manual/how-to-build-an-agent) by Thorsten Ball from Sourcegraph.
 
+![Tool Screenshot](./Screenshot.png)
+
 ## What it does
 
 This agent demonstrates that building a code-editing AI agent isn't magic - it's just an LLM, a loop, and enough tokens. In less than 400 lines of Go code, you get:
